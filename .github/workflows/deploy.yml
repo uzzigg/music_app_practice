@@ -1,11 +1,11 @@
-# ARCHIVO DE PRUEBA PARA UN FLUJO DE TRABAJO EN GITHUB
+# ARCHIVO DE PRUEBA PARA UN FLUJO DE TRABAJO EN GITHUB (VERSION MI PROYECTO)
 name: archivo de deploy para bucket s3 con angular
 
 on:
     push:
         branches:
             - main
-            - new-branch
+            - class_activity
 
 jobs:
     deploy:
